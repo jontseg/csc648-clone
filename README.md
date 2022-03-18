@@ -1,7 +1,7 @@
-# CSC648-spring22-04-Team06 Repository
+# CSC648-spring22-SectionName-teamX Repository
 
 ## Application URL: 
-https://rentto.me
+
 
 ## Please do the following steps before completing Milestone 0.
 1. Change the name of the repository of csc648-spring22-SectionName-teamNN. 
@@ -21,7 +21,7 @@ https://rentto.me
 | ----------------- | ------------------------ | --------------- | -------------------------- |
 | Vanessa Van Dinh  | vvandinh@mail.sfsu.edu   | vandinhvanessa  | Team Leader, Frontend Lead |
 | Alan Lo           | alo2@mail.sfsu.edu       | loalan0         | Frontend Lead |
-| Justin Lau        | jlau13@mail.sfsu.edu | JustinLauSFSU   | Frontend Lead
+| Justin Lau        | ------------------------ | JustinLauSFSU   | Frontend Lead
 | Jonathan Tsegaye  | jtsegaye@mail.sfsu.edu   | jontseg         |        Backend Lead        |
 | Camilla Alcartado | calcartado@mail.sfsu.edu | calcartado      | GitHub Master|
 | Wilson Wu         | kwu10@mail.sfsu.edu | Kwu10           | Scrum Master |
